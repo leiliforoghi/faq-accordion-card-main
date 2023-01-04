@@ -34,7 +34,7 @@ use javascript for toggle of accordin !
 work with flexbox challenges !
 
 ## Author
-- github - (https://github.com/leiliforoghi/summary-component-main.git)
+- github - (https://github.com/leiliforoghi/faq-accordion-card-main.git)
 - Frontend Mentor - [https://www.frontendmentor.io/profile/leiliforoghi](https://www.frontendmentor.io/profile/leiliforoghi)
 
 ## Thanks for looking guys ! :)
